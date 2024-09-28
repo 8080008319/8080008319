@@ -1,6 +1,4 @@
-#include<LiquidCrystal.h>
 
-LiquidCrystal lcd(7, 6, 5, 4, 3, 2);
 
 
 #include <SoftwareSerial.h>
