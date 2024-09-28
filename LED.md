@@ -1,11 +1,3 @@
-/*
-  FancyLED.h - FancyLED for Wiring/Arduino
-  (cc) 2011 Carlyn Maw, Attribute, Share Alike
-  
-  Created 06 July 2011
-  Version 0.1
-*/
-
 
 // include core Wiring API
 #include "WProgram.h"
